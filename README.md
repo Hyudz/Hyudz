@@ -9,4 +9,4 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?Hyudz&label=PROFILE+VIEWS&style=flat-square">
+<img src="https://komarev.com/ghpvc/?Hyudz" alt="Profile views"/>
