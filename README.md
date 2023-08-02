@@ -9,4 +9,4 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Hyudz" alt="Profile views"/>
+![](https://komarev.com/ghpvc/?username=Hyudz)
