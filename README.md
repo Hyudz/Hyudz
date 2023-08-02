@@ -9,4 +9,4 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/Hyudz&style=flat-square&color=blue" alt=""/>
+![](https://komarev.com/ghpvc/?Hyudz&label=PROFILE+VIEWS)
