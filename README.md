@@ -15,7 +15,7 @@ Im an aspiring:
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook badge"><br>
   </a>
 
-  <a href="mailto:fraionhyudz10@gmail.com">
+  <a href="?subject=Subject%20of%20the%20Email&body=Body%20of%20the%20Email">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
