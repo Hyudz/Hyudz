@@ -15,9 +15,9 @@ Im an aspiring:
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook badge"><br>
   </a>
 
-  <a href="?subject=Subject%20of%20the%20Email&body=Body%20of%20the%20Email">
+<!--  <a href="?subject=Subject%20of%20the%20Email&body=Body%20of%20the%20Email">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  </a> -->
 
   ![](https://komarev.com/ghpvc/?username=Hyudz&style=for-the-badge)
 </div>
