@@ -23,5 +23,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual%20studio%20code)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-blue?style=for-the-badge&logo=android%20studio&logoColor=white)
 
+![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=Laravel&logoColor=red)
+
 -------------------------
 ![](https://komarev.com/ghpvc/?username=Hyudz&style=for-the-badge)
