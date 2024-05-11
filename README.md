@@ -1,4 +1,4 @@
-
+<!--
 <p align="center">This user is an aspiring: </p>
 
 <p align="center">
@@ -31,3 +31,4 @@
 
 -------------------------
 ![](https://komarev.com/ghpvc/?username=Hyudz&style=for-the-badge)
+-->
