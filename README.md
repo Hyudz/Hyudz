@@ -1,10 +1,14 @@
+<img src="intro card.gif">
+
+---------------------------
+
 <p align="center">This user is an aspiring: </p>
 
 <!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DC00&center=true&vCenter=true&width=438&lines=Software+Engineer;Game+Developer;Mobile+Developer" alt="Typing SVG" /> </p> -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DC00&center=true&vCenter=true&width=438&lines=Cybersecurity+Analyst;Ethical+Hacker;Network+Administrator;Si+Bro+ay+gustong+maging+ethical+hecker" alt="Typing SVG" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Junior+Penetration+Tester;Application+Security+Engineer;Social+Engineering+Specialist" alt="Typing SVG" /></a>
 
 ---------------------------
 
@@ -12,7 +16,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hyudz.2024/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fraion-hyudz-esguerra-914645125/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tur0n.to@proton.me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frpe.esguerra.2026@gmail.com)
 
 <!-- ---------------------------
 <h3> Things I work upon</h3>
@@ -32,4 +36,5 @@
 ![Photoshop](https://img.shields.io/badge/photoshop-white?style=for-the-badge&logo=adobe-photoshop&logoColor=%2300008B) -->
 
 -------------------------
-![](https://komarev.com/ghpvc/?username=Hyudz&style=for-the-badge)
+
+<!--![](https://komarev.com/ghpvc/?username=Hyudz&style=for-the-badge)-->
