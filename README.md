@@ -18,6 +18,14 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fraion-hyudz-esguerra-914645125/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frpe.esguerra.2026@gmail.com)
 
+---------------------------
+
+<h3> Tools I used for Penetration Testing</h3>
+
+![Static Badge](https://img.shields.io/badge/kali-black?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto&color=%23557C94)
+![Static Badge](https://img.shields.io/badge/wireshark-white?style=for-the-badge&logo=wireshark&logoColor=white&logoSize=auto&color=%231679A7)
+
+
 <!-- ---------------------------
 <h3> Things I work upon</h3>
 
@@ -33,8 +41,8 @@
 ![Unity](https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=Unity&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=Laravel&logoColor=red)
 ![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=orange)
-![Photoshop](https://img.shields.io/badge/photoshop-white?style=for-the-badge&logo=adobe-photoshop&logoColor=%2300008B) -->
+![Photoshop](https://img.shields.io/badge/photoshop-white?style=for-the-badge&logo=adobe-photoshop&logoColor=%2300008B)
 
--------------------------
+------------------------- -->
 
 <!--![](https://komarev.com/ghpvc/?username=Hyudz&style=for-the-badge)-->
