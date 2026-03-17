@@ -46,3 +46,15 @@
 ------------------------- -->
 
 <!--![](https://komarev.com/ghpvc/?username=Hyudz&style=for-the-badge)-->
+
+---------------------------
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyudz&theme=default)](https://github.com/Hyudz)
+
+[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyudz&theme=default)](https://github.com/Hyudz)
+
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hyudz&theme=default)](https://github.com/Hyudz)
+
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyudz&theme=default)](https://github.com/Hyudz)
+
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hyudz&theme=default&utcOffset=8)](https://github.com/Hyudz)
