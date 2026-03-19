@@ -14,7 +14,7 @@
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Junior+Penetration+Tester;Application+Security+Engineer;Social+Engineering+Specialist;Ethical+Hacker+in+Training" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Full+Stack=Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </a>
 
 </div>
