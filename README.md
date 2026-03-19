@@ -1,60 +1,134 @@
-<img src="intro card.gif">
+<div align="center">
 
----------------------------
+<!-- INTRO BANNER -->
+<img src="intro card.gif" width="100%" />
 
-<p align="center">This user is an aspiring: </p>
+<br/>
 
-<!-- <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DC00&center=true&vCenter=true&width=438&lines=Software+Engineer;Game+Developer;Mobile+Developer" alt="Typing SVG" /> </p> -->
+```
+╔══════════════════════════════════════════════════════════╗
+║  > INITIALIZING PROFILE...                               ║
+║  > LOADING CREDENTIALS...                                ║
+║  > ACCESS GRANTED                                        ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Junior+Penetration+Tester;Application+Security+Engineer;Social+Engineering+Specialist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Junior+Penetration+Tester;Application+Security+Engineer;Social+Engineering+Specialist;Ethical+Hacker+in+Training" alt="Typing SVG" />
+</a>
 
----------------------------
+</div>
 
-  <h3>Connect:</h3>
+---
+
+<div align="center">
+
+## `$ whoami`
+
+</div>
+
+> Aspiring cybersecurity professional with a focus on **penetration testing**, **application security**, and **social engineering**. Passionate about breaking things ethically to build them more securely.
+
+---
+
+<div align="center">
+
+## `$ ./connect.sh`
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hyudz.2024/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fraion-hyudz-esguerra-914645125/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fraion-hyudz-esguerra-914645125/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frpe.esguerra.2026@gmail.com)
 
----------------------------
+</div>
 
-<h3> Tools I used for Penetration Testing</h3>
+---
 
-![Static Badge](https://img.shields.io/badge/kali-black?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto&color=%23557C94)
-![Static Badge](https://img.shields.io/badge/wireshark-white?style=for-the-badge&logo=wireshark&logoColor=white&logoSize=auto&color=%231679A7)
+<div align="center">
+
+## `$ ls ~/tools/`
+
+</div>
+
+<div align="center">
+
+<!-- OS & Environments -->
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<!--
+
+---
+<div align="center">
+
+## `$ cat ~/areas_of_interest.txt`
+
+</div>
 
 
-<!-- ---------------------------
-<h3> Things I work upon</h3>
+```yaml
+specializations:
+  - 🔍  Web Application Penetration Testing
+  - 📱  Mobile Application Security
+  - 🎭  Social Engineering & OSINT
+  - 🛡️  Application Security Engineering
+  - 🔐  Network Reconnaissance & Analysis
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-navy?style=for-the-badge&logo=C%23&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=PHP&logoColor=%23777BB3)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual%20studio%20code)
-![Android Studio](https://img.shields.io/badge/Android_Studio-blue?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=Unity&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=Laravel&logoColor=red)
-![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=orange)
-![Photoshop](https://img.shields.io/badge/photoshop-white?style=for-the-badge&logo=adobe-photoshop&logoColor=%2300008B)
+currently_learning:
+  - CEH / OSCP preparation
+  - CTF Challenges
+  - Red Team Operations
+```
 
-------------------------- -->
+-->
 
-<!--![](https://komarev.com/ghpvc/?username=Hyudz&style=for-the-badge)-->
+---
 
----------------------------
+<div align="center">
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyudz&theme=default)](https://github.com/Hyudz)
+## `$ cat ~/stats.log`
 
-[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyudz&theme=default)](https://github.com/Hyudz)
+<br/>
 
-[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hyudz&theme=default)](https://github.com/Hyudz)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyudz&theme=github_dark)](https://github.com/Hyudz)
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyudz&theme=default)](https://github.com/Hyudz)
+<br/>
 
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hyudz&theme=default&utcOffset=8)](https://github.com/Hyudz)
+[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyudz&theme=github_dark)](https://github.com/Hyudz)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hyudz&theme=github_dark)](https://github.com/Hyudz)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyudz&theme=github_dark)](https://github.com/Hyudz)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hyudz&theme=github_dark&utcOffset=8)](https://github.com/Hyudz)
+
+</div>
+
+---
+
+<div align="center">
+
+## `$ tail -f ~/activity.log`
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hyudz&theme=dark&hide_border=true&ring=00FF41&fire=FF4500&currStreakLabel=00FF41)](https://github.com/Hyudz)
+
+[![Hyudz's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyudz&theme=react-dark&hide_border=true&color=00FF41&line=00FF41&point=FF4500)](https://github.com/Hyudz)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  "The quieter you become, the more you are able to hear" ║
+║                                          — Kali Linux    ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Hyudz&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS)
+
+</div>
