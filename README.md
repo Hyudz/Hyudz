@@ -5,6 +5,7 @@
 
 <br/>
 
+<!--
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  > INITIALIZING PROFILE...                               ║
@@ -13,9 +14,12 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Full+Stack=Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </a>
+
+-->
 
 </div>
 
@@ -27,7 +31,7 @@
 
 </div>
 
-> Aspiring cybersecurity professional with a focus on **penetration testing**, **application security**, and **social engineering**. Passionate about breaking things ethically to build them more securely.
+> Full-stack developer specializing in **PHP (Laravel / CodeIgniter 4)** and an aspiring cybersecurity professional with a focus on **penetration testing**, **application security**, and **social engineering**.
 
 ---
 
@@ -54,10 +58,10 @@
 <!-- OS & Environments -->
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -129,6 +133,6 @@ currently_learning:
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Hyudz&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS)
+<!--![Visitor Badge](https://komarev.com/ghpvc/?username=Hyudz&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS) -->
 
 </div>
